@@ -12,3 +12,7 @@ spring:
     hibernate:
       ddl-auto: update
     show-sql: true
+
+khalti:
+    secret-key: YOUR_SECRET_KEY
+    initiate-url: https://dev.khalti.com/api/v2/epayment/initiate/
